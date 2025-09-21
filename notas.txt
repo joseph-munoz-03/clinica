@@ -1,0 +1,8 @@
+errores: script.js
+    - posibles soluciones: 
+        - botón de ver pacientes
+        - 2 scripts y páginas de usuario
+        - login
+        - Registro
+
+
